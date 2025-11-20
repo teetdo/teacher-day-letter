@@ -2,6 +2,10 @@
 
 Một ứng dụng web tương tác để gửi lời tri ân đến thầy cô nhân dịp Ngày Nhà Giáo Việt Nam 20/11.
 
+## 🚀 Demo Live
+
+**[Mở ứng dụng trực tiếp](https://teetdo.github.io/teacher-day-letter)**
+
 ## ✨ Tính năng
 
 - 📬 Phong bì tương tác với hiệu ứng mở/đóng mượt mà
@@ -12,6 +16,11 @@ Một ứng dụng web tương tác để gửi lời tri ân đến thầy cô 
 
 ## 🚀 Cách sử dụng
 
+### Cách 1: Xem trực tiếp online
+1. Truy cập: https://teetdo.github.io/teacher-day-letter
+2. Nhấn vào phong bì để xem hiệu ứng
+
+### Cách 2: Chạy locally
 1. Clone repository:
 ```bash
 git clone https://github.com/teetdo/teacher-day-letter.git
@@ -19,8 +28,6 @@ cd teacher-day-letter
 ```
 
 2. Mở file `10.html` trong trình duyệt
-
-3. Nhấn vào phong bì để xem hiệu ứng
 
 ## 📁 Cấu trúc dự án
 
@@ -53,10 +60,6 @@ Bạn có thể sửa đổi:
 - **Nội dung thư**: Chỉnh sửa trong `10.html`
 - **Màu sắc**: Thay đổi CSS variables trong `10.css`
 - **Hiệu ứng**: Điều chỉnh trong `script.js`
-
-## 📸 Demo
-
-Mở `10.html` trong trình duyệt để xem demo trực tiếp.
 
 ## 👨‍💻 Tác giả
 
