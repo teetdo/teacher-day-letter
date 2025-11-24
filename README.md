@@ -4,7 +4,7 @@ Một ứng dụng web tương tác để gửi lời tri ân đến thầy cô 
 
 ## 🚀 Demo Live
 
-**[Mở ứng dụng trực tiếp]([https://teetdo.github.io/teacher-day-letter](https://htmlpreview.github.io/?https://raw.githubusercontent.com/teetdo/teacher-day-letter/refs/heads/main/10.html))**
+**[Mở ứng dụng trực tiếp](https://htmlpreview.github.io/?https://raw.githubusercontent.com/teetdo/teacher-day-letter/refs/heads/main/10.html)**
 
 ## ✨ Tính năng
 
